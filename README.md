@@ -62,6 +62,12 @@ _July 2025 – August 2025_
 
 ---
 
+## Detailed Metrics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KARISH-16&theme=tokyonight" />
+
+---
+
 ## Connect With Me
 
 <p align="center">
