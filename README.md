@@ -56,7 +56,6 @@ _July 2025 – August 2025_
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KARISH-16&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KARISH-16&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
